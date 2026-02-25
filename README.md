@@ -68,12 +68,6 @@ This dashboard helps leadership quickly evaluate business health and identify gr
 <img width="1344" height="753" alt="Swiggy_dashboard_yp" src="https://github.com/user-attachments/assets/216e980c-d89f-4b8e-8ef2-4af20932222c" />
 
 
-Example:
-
-![Swiggy Dashboard](images/swiggy-dashboard.png)
-
----
-
 ## 🚀 Skills Demonstrated
 
 - Business Intelligence Reporting  
